@@ -1,7 +1,7 @@
 {
-  "name": "useraddedit",
+  "name": "CreateReactNodeReduxApp",
   "version": "1.0.0",
-  "description": "Add edit user ",
+  "description": "Boiler Plate for ReactReduxNode App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
