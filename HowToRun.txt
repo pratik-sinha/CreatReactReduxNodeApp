@@ -1,0 +1,5 @@
+
+1. Open two terminals at root folder of this application
+2. First terminal run 'npm run start-hook'
+3. Second terminal run 'npm run watch'
+4. Browse to http://localhost:8000
